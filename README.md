@@ -11,11 +11,11 @@
 ### Graphs and Charts that support our findings:
 
 #### - A Map to Show Location of Deaths Around the World
-#### - Bar Chart to show Causes of Death over Years
-#### - Line Chart to show Causes of Death over Years
-#### - Scatter Plot to show Socio-economic Status vs Physicians population
-#### - Scatter Plot to show deaths vs physician/nurse population
-#### - Scatter Line Regression to show correlation between deaths and physicians/nurse
+#### - A Bar Chart to show Causes of Death over Years
+#### - A Line Chart to show Causes of Death over Years
+#### - A Scatter Plot to show Socio-economic Status vs Physicians population
+#### - A Scatter Plot to show deaths vs physician/nurse population
+#### - A Scatter Line Regression to show correlation between deaths and physicians/nurse
 
 
 ## Data Process and Challenges 
